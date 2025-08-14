@@ -1,2 +1,2 @@
 # SQL-Queries
-Queries used by Data Engineers.
+Several SQL queries used by Data Engineers.
